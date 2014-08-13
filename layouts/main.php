@@ -2,7 +2,7 @@
 <html>
 <head lang="en">
     <meta charset="UTF-8">
-    <?php  \denisogr\theme\AppAsset::register($this); ?>
+    <?php  denisogr\theme\AppAssets::register($this); ?>
     <title></title>
 </head>
 <body>

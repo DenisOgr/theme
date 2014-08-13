@@ -4,7 +4,7 @@ namespace denisogr\theme;
 use yii\web\AssetBundle;
 
 
-class AppAsset extends AssetBundle
+class AppAssets extends AssetBundle
 {
     public $sourcePath = '@vendors/denisogr/theme/assets';
     public $css = [
